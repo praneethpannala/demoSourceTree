@@ -1,1 +1,1 @@
-"My main2 file"
+"My main2 file has been updated"
